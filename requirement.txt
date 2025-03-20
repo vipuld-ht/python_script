@@ -1,0 +1,5 @@
+pymysql
+boto3
+sqlite3
+uuid
+dotenv
